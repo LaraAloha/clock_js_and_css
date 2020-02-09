@@ -1,2 +1,2 @@
 # clock_js_and_css
-Clock built on native JS and CSS
+<!-- Clock built on native JS and CSS -->
